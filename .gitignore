@@ -1,0 +1,29 @@
+
+### VARIOUS OS FILES
+/.idea
+.DS_Store
+
+
+### CRAFT ENV FILES
+/.env
+/.env.*
+
+
+### CRAFT UPDATE FILES
+/vendor/*
+/storage/*
+/node_modules/*
+
+
+### SITE MEDIA FILES
+web/uploads/*
+web/imager/*
+
+
+### DEVELOPMENT FILES
+/.ftpconfig
+/comps
+
+
+### PRESERVE ALL GITKEEP FILES
+!/**/.gitkeep
